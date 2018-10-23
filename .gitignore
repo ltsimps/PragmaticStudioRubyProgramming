@@ -1,3 +1,6 @@
 #Ignore folder .vscode
 
-./vscode
+.vscode/
+
+
+.gitignore
